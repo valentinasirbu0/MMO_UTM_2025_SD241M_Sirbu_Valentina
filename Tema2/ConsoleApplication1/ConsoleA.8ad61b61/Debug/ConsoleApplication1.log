@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Valea\Desktop\MMO\Tema2\ConsoleApplication1\ConsoleApplication1.cpp(153,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valea\Desktop\MMO\Tema2\ConsoleApplication1\ConsoleApplication1.cpp(420,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valea\Desktop\MMO\Tema2\ConsoleApplication1\ConsoleApplication1.cpp(504,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Valea\Desktop\MMO\Tema2\ConsoleApplication1\Debug\ConsoleApplication1.exe
